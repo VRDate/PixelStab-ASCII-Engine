@@ -36,7 +36,7 @@ The engine also includes a very primitive text renderer. Still no support for fu
 		- textWidth
 
 
-Couple of Examples:
+Couple of Examples
 
 	http://dev.shin.cl/asciiengine/
 

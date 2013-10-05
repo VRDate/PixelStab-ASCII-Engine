@@ -35,3 +35,11 @@ The engine also includes a very primitive text renderer. Still no support for fu
 		- drawText
 		- textWidth
 
+
+Couple of Examples:
+
+	http://dev.shin.cl/asciiengine/
+
+	http://dev.shin.cl/asciiengine/exp2/
+
+	http://dev.shin.cl/asciiengine/exp2/webcam.html
